@@ -1,0 +1,9 @@
+plugin.description:
+plugin.author:
+plugin.version:
+rtorrent.remote:
+rtorrent.external.error:
+plugin.dependencies:
+plugin.runlevel:
+php.extensions.error:
+plugin.help: 
