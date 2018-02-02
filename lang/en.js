@@ -6,4 +6,4 @@
  * Author: Nicolad D'Amuri - nicissimo97
  */
 
- theUILang.mediainfo		= "ItaliansubsVideoProcessing";
+ theUILang.ItaliansubsVideoProcessing		= "ItaliansubsVideoProcessing";

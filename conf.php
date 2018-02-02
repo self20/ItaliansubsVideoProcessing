@@ -1,3 +1,3 @@
 <?php
 
-$pathToExternals['script'] = '';
+$pathToExternals['ItaliansubsVideoProcessing'] = '';
